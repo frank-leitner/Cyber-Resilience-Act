@@ -128,5 +128,7 @@ CRA Standardisation Dashboard
 
 
 ## Guidance by industrial sector:
+### Railway:
+ - [Expert Guidance on the Implementation of the Cyber Resilience Act in Mainline and Urban Railways](https://www.cer.be/cer-reports/practical-guidance-on-the-implementation-of-the-cyber-resilience-act)
 ### Agriculture:
  - [CEMA Implementation guidance on the EU Cyber Resilience Act](https://www.cema-agri.org/publications/17-position-papers-publications/1114-cema-implementation-guidance-on-the-eu-cyber-resilience-act-cra-2024-2847)
